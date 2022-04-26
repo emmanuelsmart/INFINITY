@@ -18,4 +18,4 @@ ___________________________________________
 
 * git pull
 
-* python infinity.so
+* python xms.so
