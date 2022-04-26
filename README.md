@@ -6,4 +6,4 @@
 
 * git pull
 
-* python file.so
+* python infinity.so
